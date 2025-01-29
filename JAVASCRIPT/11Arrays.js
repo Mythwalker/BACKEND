@@ -57,7 +57,7 @@ const dc_heros = ["superman", "flash", "batman"]
 //add all elements of dc to marvel 
 // console.log(allHeros); 
 
-const all_new_heros = [...marvel_heros, ...dc_heros] //method 2
+const all_new_heros = [...marvel_heros, ...dc_heros] //spread method 
 // console.log(all_new_heros);
 
 const another_array = [1, 2, 3, [4, 5, 6], 7, [6, 7, [4, 5]]]
